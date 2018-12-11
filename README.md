@@ -31,10 +31,10 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
-!(gif2)[https://i.imgur.com/onooBI3]
+![gif2](https://i.imgur.com/onooBI3)
 
 Vulnerability #2: Username Enumeration
-!(gif1)[https://i.imgur.com/VD80eMO]
+![gif1](https://i.imgur.com/VD80eMO)
 
 
 ## Notes
