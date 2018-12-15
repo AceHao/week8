@@ -16,9 +16,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection (SQLi)
-![blue1](https://i.imgur.com/heV44f2.gif)
-Vulnerability #2: 
+Vulnerability #1: SQL Injection (SQLi) 
+![blue1](https://i.imgur.com/cCWWcGQ.gif)
+Vulnerability #2: Session Hijacking/Fixation
+![blue2](https://i.imgur.com/emef7On.gif)
 
 
 ## Green
